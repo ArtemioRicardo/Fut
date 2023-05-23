@@ -1,0 +1,21 @@
+Flask ==2.0.1
+markupsafe ==2.0.1
+flask-caching
+dash ==2.0.0
+WordCloud
+plotly ==5.8.0
+numpy ==1.21.2
+pandas ==1.4.2
+sqlalchemy ==1.4.39
+gunicorn
+dash_bootstrap_components ==1.0.3
+fastparquet ==0.7.1
+PyJWT ==2.1.0
+requests ==2.26.0
+werkzeug ==2.0.1
+cryptography ==36.0.1
+pytest
+flask_sqlalchemy
+loguru
+html2text
+openpyxl
